@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\bin\Debug\netcoreapp3.1\deliverable1A.exe
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\bin\Debug\netcoreapp3.1\deliverable1A.deps.json
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\bin\Debug\netcoreapp3.1\deliverable1A.runtimeconfig.json
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\bin\Debug\netcoreapp3.1\deliverable1A.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\bin\Debug\netcoreapp3.1\deliverable1A.dll
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\bin\Debug\netcoreapp3.1\deliverable1A.pdb
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\obj\Debug\netcoreapp3.1\deliverable1A.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\obj\Debug\netcoreapp3.1\deliverable1A.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\obj\Debug\netcoreapp3.1\deliverable1A.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\obj\Debug\netcoreapp3.1\deliverable1A.AssemblyInfo.cs
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\obj\Debug\netcoreapp3.1\deliverable1A.dll
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\obj\Debug\netcoreapp3.1\deliverable1A.pdb
+C:\Users\Owner\source\repos\deliverable1A\deliverable1A\obj\Debug\netcoreapp3.1\deliverable1A.genruntimeconfig.cache
